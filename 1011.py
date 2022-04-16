@@ -1,0 +1,6 @@
+R = float(input())
+
+pi = 3.14159
+A = (4/3) * pi * R**3
+
+print("VOLUME =", "{0:.3f}".format(A))
