@@ -12,4 +12,4 @@ def fatorial():
 
     print(fat)
 
-fatorial()
+fatorial() 
